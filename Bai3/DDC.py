@@ -40,7 +40,7 @@ def ddc():
       else:
         key1 +=1
         key2 = key1
-  write_file("ĐC.OUT", str(ans))
+  write_file("DDC.OUT", str(ans))
 
 
 if __name__ == "__main__":
